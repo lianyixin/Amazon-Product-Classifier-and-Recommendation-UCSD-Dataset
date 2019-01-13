@@ -10,3 +10,9 @@ https://medium.com/@akankshamalhotra24/introduction-to-libraries-of-nlp-in-pytho
 What's more, there are other famous NLP libraries worth mentioning. It can be checked out as follows:
 
 https://elitedatascience.com/python-nlp-libraries
+
+As for the evaluation metrics, it's important to understand the difference between all metrics. Here is a good reference (in Chinese though):
+
+https://www.cnblogs.com/futurehau/p/6109772.html
+
+
