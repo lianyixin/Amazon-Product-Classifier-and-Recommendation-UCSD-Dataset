@@ -18,6 +18,14 @@ As for the evaluation metrics, it's important to understand the difference betwe
 
 https://www.cnblogs.com/futurehau/p/6109772.html
 
+## Recommendation System
+A really good slide for recommendation system - Tensorrec:
+https://www.slideshare.net/JamesKirk58/boston-ml-architecting-recommender-systems
+
+Ans here is the sourde code of Tensorrec:
+
+https://github.com/jfkirk/tensorrec
+
 ## Embedding
 Hyperparameter tuning for size of embeddings plays a significant role in filtering recommendation model. This article introduces the function of embedding layer (in Chinese): 
 
@@ -28,3 +36,4 @@ https://blog.csdn.net/u010412858/article/details/77848878
 A clear introduction about the difference between these two:
 
 https://www.quora.com/What-is-the-difference-between-content-based-filtering-and-collaborative-filtering
+
