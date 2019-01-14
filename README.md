@@ -23,3 +23,8 @@ Hyperparameter tuning for size of embeddings plays a significant role in filteri
 
 https://blog.csdn.net/u010412858/article/details/77848878
 
+
+## Collaborative-filtering and Content-based-filtering
+A clear introduction about the difference between these two:
+
+https://www.quora.com/What-is-the-difference-between-content-based-filtering-and-collaborative-filtering
