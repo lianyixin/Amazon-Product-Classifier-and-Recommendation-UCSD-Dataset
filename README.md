@@ -1,6 +1,9 @@
 # Amazon-Product-Classifier-and-Recommendation-UCSD-Dataset
 Apply classic ml algorithm for text embeddings and classifier, apply recommendation model for building recommendation system
 
+## Dataset Link
+
+http://jmcauley.ucsd.edu/data/amazon/
 
 ## NLP libraries
 In order to save time, I use the spacy module, which has built-in functionality to calculate the average vector of a sequence of words.
